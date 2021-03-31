@@ -18,8 +18,5 @@ const config: MenuEntry[] = [
       {
         label: 'MOON',
         href: '/pool',
-      },
-    ],
-  },
-  {
+      }
  
